@@ -51,7 +51,7 @@ This project was made using the follow technologies:
 - School Ratings Evaluation by Yearly Cycle
 - Academic Perfomance Evaluation By Termly Cycle
 - Teacher Quality Evaluation By Termly Cycle
-- Curriculum Delivery Processes Evaluaton (TODO)
+- Curriculum Delivery Processes Evaluation (TODO)
 - Dashboard Analytics Summary For All Metrics
 
 # :construction_worker: How to run
