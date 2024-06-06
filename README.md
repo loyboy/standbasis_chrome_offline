@@ -25,7 +25,7 @@ TODO: Will be adding a server side implementation for District school owners to 
 
 <br />
 <div align="center">
-  <img src="https://github.com/loyboy/standbasis_chrome_offline/blob/master/Screenshot.png" width="720">
+  <img src="https://github.com/loyboy/standbasis_chrome_offline/blob/master/Screenshot.PNG" width="720">
 </div>
 
 ---
