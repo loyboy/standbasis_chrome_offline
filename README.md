@@ -7,7 +7,7 @@
   <a href="https://github.com/loyboy/standbasis_chrome_offline/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg" target="_blank" />
   </a>
-  <a href="https://github.com/loyboy/standbasis_chrome_offline/blob/master/LICENSE">
+  <a href="https://github.com/loyboy/standbasis_chrome_offline/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-03B0E8.svg" target="_blank" />
   </a>
   <img alt="" src="https://img.shields.io/github/repo-size/loyboy/standbasis_chrome_offline?color=03B0E8" />
@@ -18,14 +18,14 @@ TODO: Will be adding a server side implementation for District school owners to 
 
 ## 📥 Documents available at:
 <p align="center">
-    <a title="Access Standbasis Overview" href="https://github.com/loyboy/standbasis_chrome_offline/blob/master/StandbasisDetails.pdf">
+    <a title="Access Standbasis Overview" href="https://github.com/loyboy/standbasis_chrome_offline/blob/main/StandbasisDetails.pdf">
         <img alt="Direct Download" src="https://img.shields.io/badge/Download%20An%20Introduction%20To%20Standbasis-03B0E8" width="200px" />
     </a>
 </p>
 
 <br />
 <div align="center">
-  <img src="https://github.com/loyboy/standbasis_chrome_offline/blob/master/Screenshot.PNG" width="720">
+  <img src="https://github.com/loyboy/standbasis_chrome_offline/blob/main/Screenshot.PNG" width="720">
 </div>
 
 ---
